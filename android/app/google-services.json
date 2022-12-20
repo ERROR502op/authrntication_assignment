@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705529454486",
+    "project_id": "authentication-app-debdb",
+    "storage_bucket": "authentication-app-debdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705529454486:android:631ba4ef90a0fd362087b7",
+        "android_client_info": {
+          "package_name": "com.example.authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705529454486-k803u3sp9pub6hfqco6t9bf04lj4g7p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkY7TO6b-DJTn6eAt4EFnkucIVInIm5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705529454486-k803u3sp9pub6hfqco6t9bf04lj4g7p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
